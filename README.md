@@ -1,2 +1,4 @@
 # wifi-jwe21-2020
-* Aufstellung
+* Aufzählung1
+* Aufzählung2
+
